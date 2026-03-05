@@ -1,0 +1,6 @@
+public class p1{
+  public sttic void main(String[] args){
+    System.out.println("Hello World");
+}
+}
+
